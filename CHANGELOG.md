@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.2](https://github.com/Avkroken/Produkter/compare/v1.4.1...v1.4.2) (2026-09-05)
+
+
+### Documentation
+
+* clarify repository-specific governance ([#647](https://github.com/Avkroken/Produkter/issues/647)) ([09777ed](https://github.com/Avkroken/Produkter/commit/09777ed8c010ac3653d2d101b2a6ce03e41de9be))
+
 ## [1.4.1](https://github.com/Avkroken/Produkter/compare/v1.4.0...v1.4.1) (2026-09-05)
 
 
